@@ -1,0 +1,7 @@
+provider "aws" {
+  region = "ap-south-1"  # or any other desired region
+}
+
+resource "aws_s3_bucket"  "my_buckssssssslkkkkkkskskink" {
+  bucket = "demobucksskkkkkskskin"
+}
